@@ -18,4 +18,3 @@ def fizz_buzz
 end
 
 puts fizz_buzz
-
